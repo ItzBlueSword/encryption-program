@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-A simple encryption program designed to securely encrypt and decrypt text using various algorithms. This project is built with [Your Programming Language/Framework] and is intended for [Purpose/Target Audience].
+A simple encryption program designed to encrypt securely and decrypt text using various algorithms. This project is built with **Python**.
 
 ## Features
 
